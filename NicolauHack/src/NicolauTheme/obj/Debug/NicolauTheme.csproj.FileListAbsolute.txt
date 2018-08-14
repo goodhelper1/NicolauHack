@@ -7,3 +7,15 @@ C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\Nic
 C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.csproj.CoreCompileInputs.cache
 C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.dll
 C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.pdb
+C:\Users\wtnic\Videos\FlatUI-master\NicolauHack\bin\Debug\NicolauTheme.dll
+C:\Users\wtnic\Videos\FlatUI-master\NicolauHack\bin\Debug\NicolauTheme.pdb
+C:\Users\wtnic\Videos\FlatUI-master\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.csprojAssemblyReference.cache
+C:\Users\wtnic\Videos\FlatUI-master\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.csproj.CoreCompileInputs.cache
+C:\Users\wtnic\Videos\FlatUI-master\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.dll
+C:\Users\wtnic\Videos\FlatUI-master\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.pdb
+C:\Users\wtnic\Documents\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.csprojAssemblyReference.cache
+C:\Users\wtnic\Documents\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.csproj.CoreCompileInputs.cache
+C:\Users\wtnic\Documents\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.dll
+C:\Users\wtnic\Documents\NicolauHack\src\NicolauTheme\obj\Debug\NicolauTheme.pdb
+C:\Users\wtnic\Documents\NicolauHack\bin\NicolauTheme.dll
+C:\Users\wtnic\Documents\NicolauHack\bin\NicolauTheme.pdb

@@ -100,14 +100,14 @@ namespace NicolauTheme
 
 			NicolauColors colors = new NicolauColors();
 
-			while(control != null && (control.GetType() !=  typeof(FormSkin)))
+			while(control != null && (control.GetType() !=  typeof(NicolauSkin)))
 			{
 				control = control.Parent;
 			}
 
 			if(control != null)
 			{
-				FormSkin skin = (FormSkin)control;
+				NicolauSkin skin = (NicolauSkin)control;
 				colors.Nicolau = skin.NicolauColor;
 			}
 
