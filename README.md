@@ -3,8 +3,6 @@ by weliton nicolau
 
 welcome to my source of visual studio 2017 C #
 
-to your email
-
 I'm brazilian
 
 anyone who wants to send corrections and reports difficulties is at ease.
