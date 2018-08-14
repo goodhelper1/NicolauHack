@@ -19,6 +19,11 @@ to Generate (NicolauTheme.dll) from paste bin => bin\NicolauTheme.dll
 
 drag and apply DLL NicolauTheme.dll => to Toolbox from your visual studio 2017
 
+Problems
+===========
+to compile your project must be chosen in the initial project solution
+start project compiler nicolau hack and nicolau theme as dependents.
+
 ![Example](NicolauHack/print/toolbox.PNG)
 
 In the toolbox Drag NicolauSkin into your simple visual studio 2017 C#
