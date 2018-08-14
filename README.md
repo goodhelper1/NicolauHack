@@ -54,7 +54,7 @@ Download Source
 Problems
 ===========
 to compile your project must be chosen in the initial project solution
-start project compiler nicolau hack and nicolau theme as dependents.
+start project compiler (nicolauhack)as primary and (nicolautheme) as dependents.
 
 Credits
 -------
