@@ -15,16 +15,16 @@ after you open Make compile Project (NicolauTheme) later
 
 to Generate (NicolauTheme.dll) from paste bin => bin\NicolauTheme.dll
 
-drag and apply DLL NicolauTheme.dll => to Toolbox from your Visual Studio 2017
+drag and apply DLL NicolauTheme.dll => to Toolbox from your visual studio 2017
 
 ![Example](NicolauHack/print/toolbox.PNG)
 
-In the toolbox Drag NicolauSkin into your simple visual studio program 2017 C #
+In the toolbox Drag NicolauSkin into your simple visual studio 2017 C#
 
 ========
 
 NicolauHack is a C# port of the Flat UI theme released by iSynthesis, which
-was written in Visual Basic.
+was written in visual studio 2017 C#
 
 ![Example](NicolauHack/print/appfinal.PNG)
 
