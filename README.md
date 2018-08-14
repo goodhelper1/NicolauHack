@@ -4,7 +4,9 @@ For Beginners in Using Hack for Games.
 
 Can be used to create hack of any game.
 
-Just create as your ideas and Enjoy
+create your ideas and Enjoy =)
+
+welcome
 
 Instructions
 ===========
