@@ -1,0 +1,6 @@
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\bin\Debug\FlatUI.dll
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\bin\Debug\FlatUI.pdb
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\FlatUI.csprojAssemblyReference.cache
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\FlatUI.csproj.CoreCompileInputs.cache
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\FlatUI.dll
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\FlatUI.pdb

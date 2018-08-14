@@ -1,0 +1,9 @@
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\bin\Debug\NicolauTheme.dll
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\bin\Debug\NicolauTheme.pdb
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\NicolauTheme.csproj.CoreCompileInputs.cache
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\NicolauTheme.dll
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\FlatUI\obj\Debug\NicolauTheme.pdb
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.csprojAssemblyReference.cache
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.csproj.CoreCompileInputs.cache
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.dll
+C:\Users\wtnic\Videos\FlatUI-master\FlatUI-master\src\NicolauTheme\obj\Debug\NicolauTheme.pdb
