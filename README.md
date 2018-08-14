@@ -11,7 +11,7 @@ Instructions
 
 Download the source code and open the project in visual studio;
 
-after you open Make compile your Project
+after you open Make compile Project (NicolauTheme) later
 
 to Generate (NicolauTheme.dll) from paste bin => bin\NicolauTheme.dll
 
