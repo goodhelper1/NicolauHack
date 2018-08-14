@@ -19,10 +19,6 @@ to Generate (NicolauTheme.dll) from paste bin => bin\NicolauTheme.dll
 
 drag and apply DLL NicolauTheme.dll => to Toolbox from your visual studio 2017
 
-Problems
-===========
-to compile your project must be chosen in the initial project solution
-start project compiler nicolau hack and nicolau theme as dependents.
 
 ![Example](NicolauHack/print/toolbox.PNG)
 
@@ -41,6 +37,10 @@ Download Source
   >On GitHub, click `Clone or download`, `Download ZIP`.
   >Or run `git clone https://github.com/wtnicolau/NicolauHack.git`
 
+Problems
+===========
+to compile your project must be chosen in the initial project solution
+start project compiler nicolau hack and nicolau theme as dependents.
 
 Credits
 -------
