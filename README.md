@@ -13,7 +13,7 @@ Download the source code and open the project in visual studio;
 
 after you open Make compile your Project
 
-to Generate paste bin => bin\NicolauTheme.dll
+to Generate (NicolauTheme.dll) from paste bin => bin\NicolauTheme.dll
 
 drag and apply DLL NicolauTheme.dll => to Toolbox from your Visual Studio 2017
 
