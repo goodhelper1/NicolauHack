@@ -1,7 +1,3 @@
-alert read
-======
-
-
 by weliton nicolau
 ======
 
