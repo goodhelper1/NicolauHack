@@ -1,3 +1,7 @@
+alert read
+======
+
+
 by weliton nicolau
 ======
 
@@ -18,7 +22,9 @@ For Beginners in Using Hack for Games.
 
 Can be used to create hack of any game.
 
-create your ideas and Enjoy =)
+this is the initial source to start a hack, not a hack itself, but rather just its interface ready to be added features.
+
+goes from each one, his creativity.
 
 welcome
 
